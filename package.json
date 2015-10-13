@@ -1,0 +1,17 @@
+{
+  "name": "image-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image-db.js",
+  "dependencies": {
+    "gm": "^1.19.0",
+    "md5": "^2.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Jost <info@daniel-jost.de>",
+  "license": "MIT"
+}
